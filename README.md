@@ -1,8 +1,8 @@
 # **Soy Pau**
 ## Cosas que me gustan:
-*  Futbol
-* Mujeres
-* y Vicente...
+*  Futbol ⚽
+* Mujeres 👧 
+* y Vicente... 🦍
 
 <!---
 pauoff/pauoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
